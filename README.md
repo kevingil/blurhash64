@@ -1,5 +1,5 @@
 # blurhash64
-Python macros to get a base64 string from image binaries
+Python function to get a base64 string from image binaries
 
 ```python
 
